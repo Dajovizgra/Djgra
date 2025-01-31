@@ -1,2 +1,1 @@
-# Djgra
-Este es mi repoitorio personal.
+### Bienvenidxs a mi perfil.
